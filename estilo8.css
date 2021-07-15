@@ -1,0 +1,14 @@
+
+
+.content { 
+    top: 0;
+    background: rgb(95, 146, 53);
+    color:#0c0404;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+ H1, p { 
+     text-align: center;       
+ }
